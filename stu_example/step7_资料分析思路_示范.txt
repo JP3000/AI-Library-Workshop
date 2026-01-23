@@ -13,5 +13,3 @@
 - 分析流程说明
 - 关键分析注意事项
 - 结果类型示例（主题 / 模型 / 分类等）
-
-➜ Evidence / Search Keys / Retrieval Strings / Citation Hooks

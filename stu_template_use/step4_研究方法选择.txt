@@ -13,5 +13,3 @@
 - 方法对比表
 - 推荐方法与理由
 - 下一步准备清单
-
-➜ Evidence / Search Keys / Retrieval Strings / Citation Hooks

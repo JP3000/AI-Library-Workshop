@@ -14,5 +14,3 @@
 - 全文论文大纲
 - 写作任务时间线
 - 最终检查清单
-
-➜ Evidence / Search Keys / Retrieval Strings / Citation Hooks

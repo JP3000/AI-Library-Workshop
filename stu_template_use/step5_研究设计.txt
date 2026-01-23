@@ -13,5 +13,3 @@
 - 研究设计方案 A / B
 - 各方案优缺点
 - 我接下来要做的具体准备
-
-➜ Evidence / Search Keys / Retrieval Strings / Citation Hooks

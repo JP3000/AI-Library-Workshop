@@ -21,5 +21,3 @@
 - 背景理解要点
 - 概念与工作定义表
 - 待澄清问题列表
-
-➜ Evidence / Search Keys / Retrieval Strings / Citation Hooks

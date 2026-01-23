@@ -16,5 +16,3 @@
 - 核心研究问题
 - 子研究问题
 - 可操作研究要素清单
-
-➜ Evidence / Search Keys / Retrieval Strings / Citation Hooks
